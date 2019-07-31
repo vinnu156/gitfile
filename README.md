@@ -1,0 +1,2 @@
+# gitfile
+knowing  the commands
